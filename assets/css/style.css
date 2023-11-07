@@ -475,7 +475,6 @@ body {
   pointer-events: none;
   transition: var(--transition-short);
   z-index: 3;
-  border: 1px solid red;
 }
 .overlay.active {
   opacity: 0.5;
